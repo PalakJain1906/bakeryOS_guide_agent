@@ -19,8 +19,7 @@ The system uses a **Sequential Logic** flow:
 2. **Researcher Agent:** Performs real-time research using technical databases to verify ingredient properties.
 3. **Formatter Agent:** Packages the scientific data into a warm, professional response tailored for a business owner.
 
- "C:\Users\jainp\Pictures\Screenshots\Screenshot 2026-04-08 213325.png"  
-
+<img width="1827" height="842" alt="image" src="https://github.com/user-attachments/assets/7f9f1b99-109f-48bd-b5e6-b58d3ce51ad3" />
 
 ## 🏃‍♂️ How to Run
 1. Clone the repository.
