@@ -1,18 +1,22 @@
-# BakeryOS Guide Agent 🥐🔬
+# BakeryOS Guide Agent 🧁
 
-**BakeryOS** is an AI-powered technical consultant designed for home-based bakers and micro-entrepreneurs. It bridges the gap between complex food science and daily production, helping bakers understand the "why" behind their ingredients to create consistent, high-quality organic products.
+An AI-powered technical assistant for home-based organic bakers, built for the Gen AI Academy APAC Edition.
 
-## 🚀 Key Features
-- **Scientific Deep-Dives:** Explains the chemistry of baking (e.g., hygroscopy, Maillard reaction).
-- **Multi-Agent Orchestration:** Uses a specialized "Researcher" for facts and a "Head Baker" persona for professional advice.
-- **Healthy Substitutions:** Provides data-driven guidance on organic and alternative ingredients.
+## How it Works
+BakeryOS uses a **Sequential Agent Workflow** to bridge the gap between food science and the kitchen:
+- **The Researcher:** Uses Wikipedia to find the scientific "why" behind ingredients.
+- **The Formatter:** Translates technical data into a professional "Head Baker" persona.
 
-## 🛠️ Tech Stack
-- **Orchestration:** [Google ADK](https://github.com/google/adk) (Agent Development Kit)
-- **Model:** Gemini 2.5 Flash via Vertex AI
-- **Reasoning:** Sequential Agent Workflow (Root -> Researcher -> Formatter)
-- **Tools:** Wikipedia API, Python, LangChain
+## Tech Stack
+- **Google ADK:** Multi-agent orchestration.
+- **Gemini 2.5 Flash:** High-speed reasoning engine.
+- **LangChain:** Tool integration for real-time research.
 
+## Setup
+1. Clone the repo.
+2. Create a `.env` file with your `PROJECT_ID`.
+3. Run `python agent.py`.
+   
 ## 🏗️ System Architecture
 The system uses a **Sequential Logic** flow:
 1. **Root Agent:** Analyzes the user's intent.
