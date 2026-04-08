@@ -1,4 +1,4 @@
-<img width="1877" height="852" alt="image" src="https://github.com/user-attachments/assets/2581eb14-cad3-4a98-a969-b5ca5f32a394" /># BakeryOS Guide Agent 🥐🔬
+# BakeryOS Guide Agent 🥐🔬
 
 **BakeryOS** is an AI-powered technical consultant designed for home-based bakers and micro-entrepreneurs. It bridges the gap between complex food science and daily production, helping bakers understand the "why" behind their ingredients to create consistent, high-quality organic products.
 
